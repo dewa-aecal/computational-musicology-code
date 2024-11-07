@@ -25,3 +25,4 @@ ax[1].set(title="Stereo")
 ax[1].label_outer()
 
 plt.show()
+ 
